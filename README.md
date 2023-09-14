@@ -1,5 +1,7 @@
 # Modern-Buisness-Landing-Page
 
+NOTE: TAILWIND CSS HAS BEEN USED
+
 # LINK TO THE WEBSITE
 
 https://modern-buisness-landing-page.vercel.app/
